@@ -28,7 +28,7 @@ matrix_max = 0.98
 
 customer_data = customer_data[['Annual Income (k$)', 'Spending Score (1-100)']]
 
-num_clust = 15
+num_clust = 8
 
 wcss_list = []
 
